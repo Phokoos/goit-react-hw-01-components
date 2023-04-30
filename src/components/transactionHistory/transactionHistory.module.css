@@ -1,0 +1,21 @@
+.transaction__history{
+	padding: 5px;
+	width: 500px;
+
+	border: 2px solid var(--accentColor);
+	background-color: var(--secondaryColor);	
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.49);
+}
+.main_row{
+	margin-bottom: 10px;
+
+	color: var(--titleColor);
+	font-size: 24px;
+}
+
+.row > td{
+	font-size: 20px;
+	text-align: center;
+	color: var(--textColor);
+	border-top: 1px solid var(--accentColor);
+}

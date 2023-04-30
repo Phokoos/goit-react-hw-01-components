@@ -7,6 +7,7 @@
 	align-items: center;
 
 	background-color: var(--secondaryColor);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.49);
 }
 .description{
 	width: 100%;
@@ -55,10 +56,9 @@
 .label {
 	margin-bottom: 5px;
 
-	font-size: 20px;
-	color: var(--titleColor);
-
+	color: var(--textColor);
 }
 .quantity {
-	color: var(--textColor);
+	font-size: 20px;
+	color: var(--titleColor);
 }

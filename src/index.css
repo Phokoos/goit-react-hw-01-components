@@ -5,11 +5,11 @@
 *::after{box-sizing:border-box;}
 
 :root{
-	--titleColor:#B078FF;
-	--textColor: #7387E6;
-	--accentColor: #82DCFA;
-	--secondaryColor: #9AE6CB;
-	--mainBackgroundColor: #D9FADA;	
+	--titleColor:#181538;
+	--textColor: #525871;
+	--accentColor: #3a3ad0;
+	--secondaryColor: #a6a6ff;
+	--mainBackgroundColor: #cfcfff;	
 }
 
 
